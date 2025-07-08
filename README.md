@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="rudreshportfolio.vercel.app" target="_blank">
+    <a href="https://rudreshportfolio.vercel.app" target="_blank">
      Visit my portfolio by clicking here!
     </a>
   <br />
