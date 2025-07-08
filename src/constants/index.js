@@ -208,16 +208,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "AI Trip Planner",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to plan trips with the help of AI based on the number of days of trip, number of people travelling, budget and most importantly Location.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "css",
         color: "green-text-gradient",
       },
       {
@@ -226,7 +226,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Ruddy7/AI-Trip-Planner",
   },
   {
     name: "Job IT",
