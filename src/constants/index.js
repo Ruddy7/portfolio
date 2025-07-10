@@ -229,25 +229,25 @@ const projects = [
     source_code_link: "https://github.com/Ruddy7/AI-Trip-Planner",
   },
   {
-    name: "Job IT",
+    name: "AI Medical Voice Agent",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that transforms healthcare with 24/7 AI voice support. Our assistant handles appointment booking, symptom triage, and follow-ups through natural voice conversations — improving patient care and reducing staff workload.",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "open-ai",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "vapi-voice-ai",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Ruddy7/AI-Medical-Voice-Agent",
   },
   {
     name: "Trip Guide",
