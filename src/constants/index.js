@@ -208,27 +208,6 @@ const testimonials = [
 
 const projects = [
   {
-    name: "AI Trip Planner",
-    description:
-      "Web-based platform that allows users to plan trips with the help of AI based on the number of days of trip, number of people travelling, budget and most importantly Location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/Ruddy7/AI-Trip-Planner",
-  },
-  {
     name: "AI Medical Voice Agent",
     description:
       "Web application that transforms healthcare with 24/7 AI voice support. Our assistant handles appointment booking, symptom triage, and follow-ups through natural voice conversations — improving patient care and reducing staff workload.",
@@ -248,6 +227,27 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/Ruddy7/AI-Medical-Voice-Agent",
+  },
+  {
+    name: "AI Trip Planner",
+    description:
+      "A web platform that uses AI to create personalized travel itineraries based on your destination, trip duration, number of travelers, and budget. Get smart suggestions for attractions, activities, stays, and transport—tailored to your preferences.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/Ruddy7/AI-Trip-Planner",
   },
   {
     name: "Trip Guide",
