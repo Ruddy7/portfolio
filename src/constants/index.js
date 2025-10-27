@@ -250,16 +250,16 @@ const projects = [
     source_code_link: "https://github.com/Ruddy7/AI-Trip-Planner",
   },
   {
-    name: "Trip Guide",
+    name: "Salon Voice Helpdesk",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "python",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "html",
         color: "green-text-gradient",
       },
       {
@@ -268,7 +268,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Ruddy7/Salon-Voice-Helpdesk",
   },
 ];
 
