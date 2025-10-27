@@ -231,7 +231,7 @@ const projects = [
   {
     name: "AI Trip Planner",
     description:
-      "A web platform that uses AI to create personalized travel itineraries based on your destination, trip duration, number of travelers, and budget. Get smart suggestions for attractions, activities, stays, and transport—tailored to your preferences.",
+      "A web platform that uses AI to power an intelligent helpdesk system for businesses. Users can ask queries about the business, and if relevant answers exist in the knowledge base, the AI instantly resolves them. For unresolved queries, the system seamlessly connects users to a live supervisor via one-on-one voice or video calls using LiveKit—ensuring every issue gets solved efficiently.",
     tags: [
       {
         name: "react",
