@@ -252,7 +252,7 @@ const projects = [
   {
     name: "Salon Voice Helpdesk",
     description:
-      "A web platform that uses AI to power an intelligent helpdesk system for businesses. Users can ask queries about the business, and if relevant answers exist in the knowledge base, the AI instantly resolves them. For unresolved queries, the system seamlessly connects users to a live supervisor via one-on-one voice or video calls using LiveKit—ensuring every issue gets solved efficiently.",
+      "A web platform that uses AI to power an intelligent helpdesk system for businesses. Users can ask queries about the business, and if relevant answers exist in the knowledge base, the AI instantly resolves them. For unresolved queries, the system seamlessly connects users to a live supervisor via one-on-one voice calls using LiveKit—ensuring every issue gets solved efficiently.",
     tags: [
       {
         name: "python",
