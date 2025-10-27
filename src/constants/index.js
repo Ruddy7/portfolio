@@ -158,10 +158,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "July 2025 - Present",
     points: [
-      "Undergoing hands-on training in HTML, CSS, and Bootstrap, with a focus on writing clean, accessible, and responsive UI code.",
-      "Learning frontend best practices, semantic structuring, mobile-first design, and cross-browser compatibility.",
-      "Preparing to contribute to upcoming client-facing projects as part of the frontend development team.",
-      "Collaborating with peers and mentors to build UI components and layouts that follow Deloitte’s design standards.",
+      "Certified Workday Practitioner with hands-on experience designing, building, and supporting Workday integrations using EIBs, Core Connectors, and Document Transformation.",
+      "Developed scalable and automated HR integrations to streamline data exchange across systems, minimizing manual intervention and improving operational efficiency.",
+      "Leveraged strong expertise in XML, XSLT, and Workday integration frameworks to troubleshoot, enhance, and deploy high-performing integrations.",
+      "Improved overall system reliability and reduced data processing errors through continuous optimization and proactive integration management.",
     ],
   },
   // {
